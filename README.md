@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/brianannis)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianannis/)
 
-I'm Brian, currently Director of Site Reliability Engineering at Place Exchange. I currently live in New York City.
+I'm Brian, currently Director of Site Reliability Engineering at Place Exchange. I live in New York City.
 
 - 🔭 I’m currently working on broad multi-arch support at PX
 - 🌱 I’m currently learning all about Envoy
