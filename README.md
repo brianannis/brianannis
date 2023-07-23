@@ -20,10 +20,8 @@ I have also contributed to the following projects:
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Lang-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-<br>
 ![](https://img.shields.io/badge/Platform-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-Buildkite-informational?style=flat&logo=buildkite&logoColor=white&color=2bbc8a)
-<br>
 ![](https://img.shields.io/badge/Automation-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Automation-Helm-informational?style=flat&logo=helm&logoColor=white&color=2bbc8a)
