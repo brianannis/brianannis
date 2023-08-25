@@ -6,7 +6,6 @@ I'm Brian, currently Director of Site Reliability Engineering at Place Exchange.
 
 - 🔭 I’m currently working on broad multi-arch support at PX
 - 🌱 I’m currently learning all about Envoy
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Starcraft II is my favorite game of all time
 
 ## Projects
